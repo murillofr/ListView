@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="fotos">
+        <item>@drawable/cn</item>
+        <item>@drawable/id</item>
+        <item>@drawable/us</item>
+        <item>@drawable/in</item>
+        <item>@drawable/br</item>
+        <item>@drawable/pk</item>
+        <item>@drawable/ng</item>
+        <item>@drawable/bd</item>
+        <item>@drawable/ru</item>
+        <item>@drawable/jp</item>
+    </array>
+</resources>
